@@ -28,4 +28,4 @@ Open browser, <http://localhost:8000>
      
 ## Review:
 
-[![](https://github.com/simranlotey/upload_image/blob/main/review.png)]
+![](https://github.com/simranlotey/upload_image/blob/main/review.png)
