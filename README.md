@@ -1,8 +1,19 @@
 # upload_image using django
 
-## create a virtual environment
 
-## download django file
+
+## How To Setup On Linux
+## download pip
+`
+$ sudo apt update
+$ sudo apt install python-pip
+$ pip --version
+`
+
+### create a virtual environment
+
+
+### download django file
 
 ```$ pip install django```
 
