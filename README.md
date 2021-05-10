@@ -1,7 +1,6 @@
 # upload_image using django
 
 
-
 ## How To Setup On Linux
 ## download pip
 `
